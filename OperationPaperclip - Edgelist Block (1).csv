@@ -1,0 +1,135 @@
+from,to,year,location,occupation
+Braun,Verein fuer Raumschifffahrt,1,Breslau,Mitglied
+Braun,Verein fuer Raumschifffahrt,1,Berlin,Forscher
+Braun,Verein fuer Raumschifffahrt,1,Berlin,Vorstandmitglied
+Braun,Heeresversuchsanstalt,1,Kummersdorf,Mitarbeiter
+Braun,V2,2,Peenemuende,technischer Direktor
+Braun,SS,2,Berlin,Sturmbannfuehrer
+Braun,US Army,3,Fort Bliss,Berater
+Braun,ABMA,3,Huntsville,technischer Direktor
+Braun,Redstone,3,Huntsville,technischer Leiter
+Braun,Jupiter,3,Huntsville,Entwickler
+Braun,NASA,4,Huntsville,Direktor MSFC
+Braun,Mercury,4,Huntsville,Direktor MSFC
+Braun,Gemini,4,Huntsville,Direktor MSFC
+Braun,Apollo,4,Huntsville,Direktor MSFC
+Braun,Saturn,4,Huntsville,Leitung
+Braun,NSDAP,2,Berlin,Mitglied
+Dornberger,Heereswaffenamt,1,Berlin,Entwicklungschef
+Dornberger,Verein fuer Raumschifffahrt,1,Berlin,Foerderer
+Dornberger,Heereswaffenamt,2,Kummersdorf,Raketenabteilungschef
+Dornberger,Heeresversuchsanstalt,2,Peenemuende,Kommandeur
+Dornberger,V2,2,Mittelbau-Dora,Logistik-und Trainingsleiter
+Dornberger,Mittelwerk GmbH,2,Mittelbau-Dora,Beirat
+Dornberger,US Air Force,3,Wright-Field,Entwickler
+Dornberger,Bell Air Craft Corporation,3,Buffalo,Raketen-Entwickler
+Dornberger,Dyna Soar,3,Buffalo,Entwickler
+Dornberger,Bell Air Craft Corporation,4,Buffalo,Geschaeftsleitung
+Rickhey,NSDAP,1,Berlin,Mitglied
+Rickhey,Heeresversuchsanstalt,2,Mittelbau-Dora,Generaldirektor
+Rickhey,US Army,3,Ohio,Berater
+Rickhey,Gestapo,2,Mittelbau-Dora,Informant
+Rudolph,NSDAP,1,Berlin,Mitglied
+Rudolph,SA,2,Berlin,Mitglied
+Rudolph,Verein fuer Raumschifffahrt,2,Berlin,Besucher
+Rudolph,Firma Heylandt,1,Berlin,Angestellter Raketenprojekt
+Rudolph,Heereswaffenamt,2,Kummersdorf,Angestellter
+Rudolph,Heeresversuchsanstalt,2,Peenemuende,Fabrikationsleiter
+Rudolph,SS,2,Berlin,Hauptsturmfuehrer
+Rudolph,Heeresversuchsanstalt,2,Mittelbau-Dora,Betriebsdirektor V2
+Rudolph,US Army,3,White Sands Missile Range,Entwickler V2
+Rudolph,ABMA,3,Fort Bliss,Mitarbeiter
+Rudolph,Redstone,3,Huntsville,Entwickler
+Rudolph,Redstone,3,Huntsville,technischer Direktor
+Rudolph,NASA,4,Huntsville,stellvertretender Direktor System Enigneering
+Rudolph,NASA,4,Houston,stellvertretender Direktor System Enigneering
+Rudolph,Saturn,4,Huntsville,Projektdirektor
+Debus,Technische Hochschule Darmstadt,1,Darmstadt,Student
+Debus,Burschenschaft Markommannia,1,Darmstadt,Student
+Debus,SA,2,Darmstadt,Mitglied
+Debus,SS,2,Darmstadt,Mitglied
+Debus,Technische Hochschule Darmstadt,2,Darmstadt,Wissenschaftlicher Mitarbeiter
+Debus,Gestapo,2,Darmstadt,Kooperation
+Debus,V2,2,Peenemuende,Entwicklungsingenieur
+Debus,Pruefstand VII,2,Peenemuende,Betriebsleiter
+Debus,Operation Backfire,2,Peenemuende,Kriegsgefangener
+Debus,US Army,3,Fort Bliss,Special Employee
+Debus,Redstone,3,Huntsville,Assistenz des Technischen Direktors
+Debus,ABMA,3,Huntsville,Firechief
+Debus,NASA,4,Launch Operations Center,Launch Operations Director
+Debus,NASA,4,Kennedy Space Center,Launch Operations Director
+Debus,Apollo ,4,Kennedy Space Center,Launch Operations Director
+Kuettner,Technische Hochschule Darmstadt,2,Darmstadt,Student
+Kuettner,Messerschmitt AG,2,Augsburg,Testpilot
+Kuettner,Geophysical Research Directorate,3,Cambridge,Professor
+Kuettner,University of California,3,Oakland,Professor
+Kuettner,Redstone,3,Huntsville,Centers Director
+Kuettner,Mercury ,4,Huntsville,Centers Director
+Kuettner,Apollo,4,Kennedy Space Center,Centers Director
+Riedel,Firma Heylandt,1,Berlin,Entwickler Raketenmotoren
+Riedel,Heereswaffenamt,2,Kummersdorf,Forschung und Entwicklung
+Riedel,Heeresversuchsanstalt,2,Peenemuende,Leiter technisches Konstruktionsbuero V2
+Riedel,Heeresversuchsanstalt,2,Peenemuende,Chefdesigner
+Riedel,Heeresversuchsanstalt,2,Ebensee,Beaufsichtiger bei Verlegung nach Ebensee
+Riedel,Kriegsgefangenschaft,3,Deggendorf,Gefangener US-Armee
+Rees,Heeresversuchsanstalt,2,Peenemuende,Stellvertreter Brauns
+Rees,Heeresversuchsanstalt,2,Peenemuende,Betriebsdirektor
+Rees,Heeresversuchsanstalt,2,Peenemuende,Produktionsdirektor
+Rees,US Army,3,Fort Bliss,Berater
+Rees,Redstone,3,Huntsville,Stellvertreter Brauns
+Rees,ABMA,3,Huntsville,stellvertretender Direktor
+Rees,NASA,4,Huntsville,Stellvertreter Brauns
+Tessmann,Heeresversuchsanstalt,2,Peenemuende,Ueberwacher Konstruktion Maschinentests
+Tessmann,V2,2,Koelpinsee,Entwickler
+Tessmann,US Army,3,Fort Bliss,Berater
+Tessmann,White Sands Missile Range,3,White Sands Missle Range,Mitarbeiter
+Tessmann,US Army,3,Huntsville,Mitarbeiter
+Tessmann,NASA,4,Huntsville,Deputy Director
+Huzel,NSDAP,2,Berlin,Mitglied
+Huzel,Heeresversuchsanstalt,2,Peenemuende,Mitarbeiter
+Huzel,US Army,3,Fort Bliss,Berater
+Huzel,North Amercian Aviation,4,Los Angeles,Triebswerkentwicklung Redstone
+Benzinger,NSDAP,2,Berlin,Mitglied
+Benzinger,SA,2,Berlin,Mitglied
+Benzinger,Flugmedizinisches Institut,2,Rechlin,Leiter
+Benzinger,Deutsche Akademie fuer Luftfahrtforschung,2,Berlin,Obermedizinalrat
+Benzinger,US Air Force,3,Randolph Air Force Base,Berater
+Benzinger,NMRI,3,Bethesda,Direktor
+Benzinger,NIST,4,Gaithersburg,Mitarbeiter
+Schaefer,Schering AG,2,Berlin,Assistent Chemotherapeutisches Laboratorium
+Schaefer,Luftwaffe,2,Jueterborg,Mitarbeiter Sanitaetsversuchs-und Lehrabteilung
+Schaefer,KZ Dachau,2,Dachau,Referent Menschenversuche
+Schaefer,Forschungsinstitut fuer Luftfahrtmedizin,2,Berlin,Mitarbeiter
+Schaefer,US Air Force,3,Randolph Air Force Base,Mitarbeiter
+Ruff,Deutsche Versuchsanstalt fuer Luftfahrt,2,Berlin,Direktor Institut fuer Flugmedizin
+Ruff,Deutsche Akademie fuer Luftfahrtforschung,2,Berlin,Mitglied
+Ruff,NSDAP,2,Berlin,Mitglied
+Ruff,KZ Dachau,2,Dachau,Hoehenversuche
+Ruff,Aero Medical Center,3,Heidelberg,Forscher
+Ruff,Institut fuer Flugmedizin der deutschen Versuchsanstalt,3,Bonn,Leiter
+Ruff,Universitaet Heidelberg,3,Bonn,Professor
+Strughold,Apollo,4,Huntsville,Direktor Aerospace Medical Division
+Strughold,Aero Medical Center,3,Heidelberg,Leiter
+Strughold,NASA,4,Huntsville,Direktor Aerospace Medical Division
+Strughold,Luftwaffe,2,Berlin,Chef-Forscher
+Strughold,Rockefeller Foundation,1,Chicago,Stipendium
+Strughold,Flugmedizinisches Institut,2,Berlin,Direktor
+Strughold,Reichsluftfahrtministerium,2,Berlin,Chef-Position
+Strughold,Universitaet Heidelberg,3,Heidelberg,Direktor des Physiologischen Instituts
+Strughold,US Air Force,3,Randolph Air Force Base,Mitarbeiter
+Strughold,Institut fuer Weltraummedizin,3,US Airforce-Aviation-University,Professor
+Strughold,Gemini,4,Huntsville,Direktor Aerospace Medical Division
+Strughold,Rockefeller Foundation,1,Cleveland,Stipendium
+Tiesenhausen,Ingenieurschule Hamburg,2,Hamburg,Student
+Tiesenhausen,Luftwaffe ,2,,
+Tiesenhausen,Heeresversuchsanstalt,2,Peenemuende,Raketen-Ingenieur
+Tiesenhausen,V2,2,Peenemuende,Mitarbeiter
+Tiesenhausen,Test Stand 12,2,Peenemuende,Entwicklung Mini-U-Boote
+Tiesenhausen,Kriegsgefangenschaft,3,,Kriegsgefangener
+Tiesenhausen,Hatlapa,3,Uetersen,Ingenieur
+Tiesenhausen,US Army,3,Huntsville,Entwicklung
+Tiesenhausen,ABMA,3,Huntsville,
+Tiesenhausen,Redstone,3,Huntsville,Mitarbeiter
+Tiesenhausen,NASA,4,Huntsville,Lunar Rover Konzept
+Tiesenhausen,Apollo,4,Huntsville,Lunar Rover Entwicklung
+Tiesenhausen,Saturn,4,Huntsville,Entwicklung Haltemechanismen
