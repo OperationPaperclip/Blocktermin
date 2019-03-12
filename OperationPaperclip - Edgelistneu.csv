@@ -1,0 +1,135 @@
+from,to,year
+Braun,Verein fuer Raumschifffahrt,1
+Braun,Verein fuer Raumschifffahrt,1
+Braun,Verein fuer Raumschifffahrt,1
+Braun,Heeresversuchsanstalt,1
+Braun,V2,2
+Braun,SS,2
+Braun,US Army,3
+Braun,ABMA,3
+Braun,Redstone,3
+Braun,Jupiter,3
+Braun,NASA,4
+Braun,Mercury,4
+Braun,Gemini,4
+Braun,Apollo,4
+Braun,Saturn,4
+Braun,NSDAP,2
+Dornberger,Heereswaffenamt,1
+Dornberger,Verein fuer Raumschifffahrt,1
+Dornberger,Heereswaffenamt,2
+Dornberger,Heeresversuchsanstalt,2
+Dornberger,V2,2
+Dornberger,Mittelwerk GmbH,2
+Dornberger,US Air Force,3
+Dornberger,Bell Air Craft Corporation,3
+Dornberger,Dyna Soar,3
+Dornberger,Bell Air Craft Corporation,4
+Rickhey,NSDAP,1
+Rickhey,Heeresversuchsanstalt,2
+Rickhey,US Army,3
+Rickhey,Gestapo,2
+Rudolph,NSDAP,1
+Rudolph,SA,2
+Rudolph,Verein fuer Raumschifffahrt,2
+Rudolph,Firma Heylandt,1
+Rudolph,Heereswaffenamt,2
+Rudolph,Heeresversuchsanstalt,2
+Rudolph,SS,2
+Rudolph,Heeresversuchsanstalt,2
+Rudolph,US Army,3
+Rudolph,ABMA,3
+Rudolph,Redstone,3
+Rudolph,Redstone,3
+Rudolph,NASA,4
+Rudolph,NASA,4
+Rudolph,Saturn,4
+Debus,Technische Hochschule Darmstadt,1
+Debus,Burschenschaft Markommannia,1
+Debus,SA,2
+Debus,SS,2
+Debus,Technische Hochschule Darmstadt,2
+Debus,Gestapo,2
+Debus,V2,2
+Debus,Pruefstand VII,2
+Debus,Operation Backfire,2
+Debus,US Army,3
+Debus,Redstone,3
+Debus,ABMA,3
+Debus,NASA,4
+Debus,NASA,4
+Debus,Apollo,4
+Kuettner,Technische Hochschule Darmstadt,2
+Kuettner,Messerschmitt AG,2
+Kuettner,Geophysical Research Directorate,3
+Kuettner,University of California,3
+Kuettner,Redstone,3
+Kuettner,Mercury,4
+Kuettner,Apollo,4
+Riedel,Firma Heylandt,1
+Riedel,Heereswaffenamt,2
+Riedel,Heeresversuchsanstalt,2
+Riedel,Heeresversuchsanstalt,2
+Riedel,Heeresversuchsanstalt,2
+Riedel,Kriegsgefangenschaft,3
+Rees,Heeresversuchsanstalt,2
+Rees,Heeresversuchsanstalt,2
+Rees,Heeresversuchsanstalt,2
+Rees,US Army,3
+Rees,Redstone,3
+Rees,ABMA,3
+Rees,NASA,4
+Tessmann,Heeresversuchsanstalt,2
+Tessmann,V2,2
+Tessmann,US Army,3
+Tessmann,White Sands Missile Range,3
+Tessmann,US Army,3
+Tessmann,NASA,4
+Huzel,NSDAP,2
+Huzel,Heeresversuchsanstalt,2
+Huzel,US Army,3
+Huzel,North Amercian Aviation,4
+Benzinger,NSDAP,2
+Benzinger,SA,2
+Benzinger,Flugmedizinisches Institut,2
+Benzinger,Deutsche Akademie fuer Luftfahrtforschung,2
+Benzinger,US Air Force,3
+Benzinger,NMRI,3
+Benzinger,NIST,4
+Schaefer,Schering AG,2
+Schaefer,Luftwaffe,2
+Schaefer,KZ Dachau,2
+Schaefer,Forschungsinstitut fuer Luftfahrtmedizin,2
+Schaefer,US Air Force,3
+Ruff,Deutsche Versuchsanstalt fuer Luftfahrt,2
+Ruff,Deutsche Akademie fuer Luftfahrtforschung,2
+Ruff,NSDAP,2
+Ruff,KZ Dachau,2
+Ruff,Aero Medical Center,3
+Ruff,Institut fuer Flugmedizin der deutschen Versuchsanstalt,3
+Ruff,Universitaet Heidelberg,3
+Strughold,Apollo,4
+Strughold,Aero Medical Center,3
+Strughold,NASA,4
+Strughold,Luftwaffe,2
+Strughold,Rockefeller Foundation,1
+Strughold,Flugmedizinisches Institut,2
+Strughold,Reichsluftfahrtministerium,2
+Strughold,Universitaet Heidelberg,3
+Strughold,US Air Force,3
+Strughold,Institut fuer Weltraummedizin,3
+Strughold,Gemini,4
+Strughold,Rockefeller Foundation,1
+Tiesenhausen,Ingenieurschule Hamburg,2
+Tiesenhausen,Luftwaffe,2
+Tiesenhausen,Heeresversuchsanstalt,2
+Tiesenhausen,V2,2
+Tiesenhausen,Test Stand 12,2
+Tiesenhausen,Kriegsgefangenschaft,3
+Tiesenhausen,Hatlapa,3
+Tiesenhausen,US Army,3
+Tiesenhausen,ABMA,3
+Tiesenhausen,Redstone,3
+Tiesenhausen,NASA,4
+Tiesenhausen,Apollo,4
+Tiesenhausen,Saturn,4
