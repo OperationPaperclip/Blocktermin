@@ -1,0 +1,66 @@
+id,name,type
+Wernher von Braun,Braun,0
+Kurt Debus,Debus,0
+Arthur Rudolph,Rudolph,0
+Georg Rickhey,Rickhey,0
+Walter Dornberger,Dornberger,0
+Hubertus Strughold,Strughold,0
+Joachim Kuettner,Kuettner,0
+NSDAP,NSDAP,1
+Dyna Soar,Dyna Soar,1
+SS,SS,1
+SA,SA,1
+Gestapo,Gestapo,1
+NASA,NASA,1
+V2,V2,1
+US Army,US Army,1
+Redstone,Redstone,1
+Jupiter,Jupiter,1
+Mercury,Mercury,1
+Gemini,Gemini,1
+Apollo,Apollo,1
+Saturn,Saturn,1
+Verein fuer Raumschifffahrt,VfR,1
+Firma Heylandt,Firma Heylandt,1
+Bernhard Tessmann,Tessmann,0
+Eberhard Rees,Rees,0
+Walter Riedel,Riedel,0
+Heeresversuchsanstalt,HVA,1
+ABMA,ABMA,1
+Heereswaffenamt,HWA,1
+Dieter Huzel,Huzel,0
+North American Aviation,NAA,1
+Theodor Benzinger,Benzinger,0
+Flugmedizinisches Institut,FmI,1
+Deutsche Akademie fuer Luftfahrtforschung,DAfL,1
+NMRI,NMRI,1
+NIST,NIST,1
+Konrad Schaefer,Schaefer,0
+Schering AG,Schering AG,1
+Bell Air Craft Corporation,BACC,1
+Luftwaffe,Luftwaffe,1
+Forschungsinstitut fuer Luftfahrtmedizin,FfL,1
+Siegfried Ruff,Ruff,0
+Deutsche Versuchsanstalt fuer Luftfahrt,DVfL,1
+KZ Dachau,KZ Dachau,1
+Aero Medical Center,AMC,1
+Institut fuer Flugmedizin der deutschen Versuchsanstalt,IfFddV,1
+Rockefeller Foundation,RF,1
+Universitaet Heidelberg,UniHeidel,1
+Reichsluftfahrtministerium,RLFM,1
+Institut fuer Weltraummedizin,IfW,1
+Technische Hochschule Darmstadt,TH Darmstadt,1
+Burschenschaft Markommannia,BurMar,1
+Operation Backfire,OpeBac,1
+Pruefstand VII,PruVII,1
+Kriegsgefangenschaft,KG,1
+Messerschmitt AG,Messerschmitt AG,1
+Geophysical Research Directorate,GRD,1
+University of California,UniCali,1
+Mittelwerk GmbH,Mittelwerk GmbH,1
+Georg von Tiesenhausen,Tiesenhausen,0
+Ingenieurschule Hamburg,IngSchHam,1
+Test Stand 12,TS12,1
+Firma Hatlapa,Firma Hatlapa,1
+US Air Force,USAF,1
+White Sands Missile Range,WSMR,1
