@@ -1,0 +1,135 @@
+from,to,year
+Wernher von Braun,Verein fuer Raumschifffahrt,1
+Wernher von Braun,Verein fuer Raumschifffahrt,1
+Wernher von Braun,Verein fuer Raumschifffahrt,1
+Wernher von Braun,Heeresversuchsanstalt,1
+Wernher von Braun,V2,2
+Wernher von Braun,SS,2
+Wernher von Braun,US Army,3
+Wernher von Braun,ABMA,3
+Wernher von Braun,Redstone,3
+Wernher von Braun,Jupiter,3
+Wernher von Braun,NASA,4
+Wernher von Braun,Mercury,4
+Wernher von Braun,Gemini,4
+Wernher von Braun,Apollo,4
+Wernher von Braun,Saturn,4
+Wernher von Braun,NSDAP,2
+Walter Dornberger,Heereswaffenamt,1
+Walter Dornberger,Verein fuer Raumschifffahrt,1
+Walter Dornberger,Heereswaffenamt,2
+Walter Dornberger,Heeresversuchsanstalt,2
+Walter Dornberger,V2,2
+Walter Dornberger,Mittelwerk GmbH,2
+Walter Dornberger,US Air Force,3
+Walter Dornberger,Bell Air Craft Corporation,3
+Walter Dornberger,Dyna Soar,3
+Walter Dornberger,Bell Air Craft Corporation,4
+Georg Rickhey,NSDAP,1
+Georg Rickhey,Heeresversuchsanstalt,2
+Georg Rickhey,US Army,3
+Georg Rickhey,Gestapo,2
+Arthur Rudolph,NSDAP,1
+Arthur Rudolph,SA,2
+Arthur Rudolph,Verein fuer Raumschifffahrt,2
+Arthur Rudolph,Firma Heylandt,1
+Arthur Rudolph,Heereswaffenamt,2
+Arthur Rudolph,Heeresversuchsanstalt,2
+Arthur Rudolph,SS,2
+Arthur Rudolph,Heeresversuchsanstalt,2
+Arthur Rudolph,US Army,3
+Arthur Rudolph,ABMA,3
+Arthur Rudolph,Redstone,3
+Arthur Rudolph,Redstone,3
+Arthur Rudolph,NASA,4
+Arthur Rudolph,NASA,4
+Arthur Rudolph,Saturn,4
+Kurt Debus,Technische Hochschule Darmstadt,1
+Kurt Debus,Burschenschaft Markommannia,1
+Kurt Debus,SA,2
+Kurt Debus,SS,2
+Kurt Debus,Technische Hochschule Darmstadt,2
+Kurt Debus,Gestapo,2
+Kurt Debus,V2,2
+Kurt Debus,Pruefstand VII,2
+Kurt Debus,Operation Backfire,2
+Kurt Debus,US Army,3
+Kurt Debus,Redstone,3
+Kurt Debus,ABMA,3
+Kurt Debus,NASA,4
+Kurt Debus,NASA,4
+Kurt Debus,Apollo,4
+Joachim Kuettner,Technische Hochschule Darmstadt,2
+Joachim Kuettner,Messerschmitt AG,2
+Joachim Kuettner,Geophysical Research Directorate,3
+Joachim Kuettner,University of California,3
+Joachim Kuettner,Redstone,3
+Joachim Kuettner,Mercury,4
+Joachim Kuettner,Apollo,4
+Walter Riedel,Firma Heylandt,1
+Walter Riedel,Heereswaffenamt,2
+Walter Riedel,Heeresversuchsanstalt,2
+Walter Riedel,Heeresversuchsanstalt,2
+Walter Riedel,Heeresversuchsanstalt,2
+Walter Riedel,Kriegsgefangenschaft,3
+Eberhard Rees,Heeresversuchsanstalt,2
+Eberhard Rees,Heeresversuchsanstalt,2
+Eberhard Rees,Heeresversuchsanstalt,2
+Eberhard Rees,US Army,3
+Eberhard Rees,Redstone,3
+Eberhard Rees,ABMA,3
+Eberhard Rees,NASA,4
+Bernhard Tessmann,Heeresversuchsanstalt,2
+Bernhard Tessmann,V2,2
+Bernhard Tessmann,US Army,3
+Bernhard Tessmann,White Sands Missile Range,3
+Bernhard Tessmann,US Army,3
+Bernhard Tessmann,NASA,4
+Dieter Huzel,NSDAP,2
+Dieter Huzel,Heeresversuchsanstalt,2
+Dieter Huzel,US Army,3
+Dieter Huzel,North Amercian Aviation,4
+Theodor Benzinger,NSDAP,2
+Theodor Benzinger,SA,2
+Theodor Benzinger,Flugmedizinisches Institut,2
+Theodor Benzinger,Deutsche Akademie fuer Luftfahrtforschung,2
+Theodor Benzinger,US Air Force,3
+Theodor Benzinger,NMRI,3
+Theodor Benzinger,NIST,4
+Konrad Schaefer,Schering AG,2
+Konrad Schaefer,Luftwaffe,2
+Konrad Schaefer,KZ Dachau,2
+Konrad Schaefer,Forschungsinstitut fuer Luftfahrtmedizin,2
+Konrad Schaefer,US Air Force,3
+Siegfried Ruff,Deutsche Versuchsanstalt fuer Luftfahrt,2
+Siegfried Ruff,Deutsche Akademie fuer Luftfahrtforschung,2
+Siegfried Ruff,NSDAP,2
+Siegfried Ruff,KZ Dachau,2
+Siegfried Ruff,Aero Medical Center,3
+Siegfried Ruff,Institut fuer Flugmedizin der deutschen Versuchsanstalt,3
+Siegfried Ruff,Universitaet Heidelberg,3
+Hubertus Strughold,Apollo,4
+Hubertus Strughold,Aero Medical Center,3
+Hubertus Strughold,NASA,4
+Hubertus Strughold,Luftwaffe,2
+Hubertus Strughold,Rockefeller Foundation,1
+Hubertus Strughold,Flugmedizinisches Institut,2
+Hubertus Strughold,Reichsluftfahrtministerium,2
+Hubertus Strughold,Universitaet Heidelberg,3
+Hubertus Strughold,US Air Force,3
+Hubertus Strughold,Institut fuer Weltraummedizin,3
+Hubertus Strughold,Gemini,4
+Hubertus Strughold,Rockefeller Foundation,1
+Georg von Tiesenhausen,Ingenieurschule Hamburg,2
+Georg von Tiesenhausen,Luftwaffe,2
+Georg von Tiesenhausen,Heeresversuchsanstalt,2
+Georg von Tiesenhausen,V2,2
+Georg von Tiesenhausen,Test Stand 12,2
+Georg von Tiesenhausen,Kriegsgefangenschaft,3
+Georg von Tiesenhausen,Firma Hatlapa,3
+Georg von Tiesenhausen,US Army,3
+Georg von Tiesenhausen,ABMA,3
+Georg von Tiesenhausen,Redstone,3
+Georg von Tiesenhausen,NASA,4
+Georg von Tiesenhausen,Apollo,4
+Georg von Tiesenhausen,Saturn,4

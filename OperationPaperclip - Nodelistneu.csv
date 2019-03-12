@@ -1,0 +1,66 @@
+id,name,type
+ABMA,ABMA,1
+Aero Medical Center,AMC,1
+Apollo,Apollo,1
+Arthur Rudolph,Rudolph,0
+Bell Air Craft Corporation,BACC,1
+Bernhard Tessmann,Tessmann,0
+Burschenschaft Markommannia,BurMar,1
+Deutsche Akademie fuer Luftfahrtforschung,DAfL,1
+Deutsche Versuchsanstalt fuer Luftfahrt,DVfL,1
+Dieter Huzel,Huzel,0
+Dyna Soar,Dyna Soar,1
+Eberhard Rees,Rees,0
+Firma Hatlapa,Firma Hatlapa,1
+Firma Heylandt,Firma Heylandt,1
+Flugmedizinisches Institut,FmI,1
+Forschungsinstitut fuer Luftfahrtmedizin,FfL,1
+Gemini,Gemini,1
+Geophysical Research Directorate,GRD,1
+Georg Rickhey,Rickhey,0
+Georg von Tiesenhausen,Tiesenhausen,0
+Gestapo,Gestapo,1
+Heeresversuchsanstalt,HVA,1
+Heereswaffenamt,HWA,1
+Hubertus Strughold,Strughold,0
+Ingenieurschule Hamburg,IngSchHam,1
+Institut fuer Flugmedizin der deutschen Versuchsanstalt,IfFddV,1
+Institut fuer Weltraummedizin,IfW,1
+Joachim Kuettner,Kuettner,0
+Jupiter,Jupiter,1
+Konrad Schaefer,Schaefer,0
+Kriegsgefangenschaft,KG,1
+Kurt Debus,Debus,0
+KZ Dachau,KZ Dachau,1
+Luftwaffe,Luftwaffe,1
+Mercury,Mercury,1
+Messerschmitt AG,Messerschmitt AG,1
+Mittelwerk GmbH,Mittelwerk GmbH,1
+NASA,NASA,1
+NIST,NIST,1
+NMRI,NMRI,1
+North American Aviation,NAA,1
+NSDAP,NSDAP,1
+Operation Backfire,OpeBac,1
+Pruefstand VII,PruVII,1
+Redstone,Redstone,1
+Reichsluftfahrtministerium,RLFM,1
+Rockefeller Foundation,RF,1
+SA,SA,1
+Saturn,Saturn,1
+Schering AG,Schering AG,1
+Siegfried Ruff,Ruff,0
+SS,SS,1
+Technische Hochschule Darmstadt,TH Darmstadt,1
+Test Stand 12,TS12,1
+Theodor Benzinger,Benzinger,0
+Universitaet Heidelberg,UniHeidel,1
+University of California,UniCali,1
+US Air Force,USAF,1
+US Army,US Army,1
+V2,V2,1
+Verein fuer Raumschifffahrt,VfR,1
+Walter Dornberger,Dornberger,0
+Walter Riedel,Riedel,0
+Wernher von Braun,Braun,0
+White Sands Missile Range,WSMR,1
